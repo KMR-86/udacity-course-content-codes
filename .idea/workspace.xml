@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cad9f452-9893-4115-bc42-d664af61b3c7" name="Default Changelist" comment="" />
+    <list default="true" id="cad9f452-9893-4115-bc42-d664af61b3c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/linear_regression/studentMain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,20 +19,28 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Sph3IfBU0wLAwHFGtYuj3hoWyN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Scripts/decision_tree" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Scripts/linear_regression" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\ML_Udacity_course\venv\Scripts\linear_regression" />
+      <recent name="C:\Users\User\PycharmProjects\ML_Udacity_course\venv\Scripts\decision_tree" />
+      <recent name="C:\Users\User\PycharmProjects\ML_Udacity_course\venv\Scripts\SVM" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\PycharmProjects\ML_Udacity_course\venv\Scripts\first challange" />
       <recent name="C:\Users\User\PycharmProjects\ML_Udacity_course\venv\Scripts" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\User\PycharmProjects\ML_Udacity_course\venv\Scripts\decision_tree" />
-      <recent name="C:\Users\User\PycharmProjects\ML_Udacity_course\venv\Scripts\SVM" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -43,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.studentMain">
+  <component name="RunManager" selected="Python.studentMain (3)">
     <configuration name="ClassifySVM" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ML_udacity_course_content_codes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -66,28 +78,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="studentMain (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ML_udacity_course_content_codes" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Scripts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\User\PycharmProjects\ML_Udacity_course\venv\Scripts\first challange\studentMain.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="studentMain (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ML_udacity_course_content_codes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,6 +92,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Scripts/first challange/studentMain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="studentMain (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ML_udacity_course_content_codes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Scripts/linear_regression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Scripts/linear_regression/studentMain.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.studentMain (3)" />
         <item itemvalue="Python.studentMain" />
         <item itemvalue="Python.svm_studentMain" />
         <item itemvalue="Python.ClassifySVM" />
         <item itemvalue="Python.studentMain (2)" />
-        <item itemvalue="Python.studentMain (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -178,18 +190,33 @@
       <workItem from="1572851236443" duration="1935000" />
       <workItem from="1572896940364" duration="760000" />
       <workItem from="1573014115709" duration="16000" />
-      <workItem from="1573278553816" duration="6295000" />
+      <workItem from="1573278553816" duration="6881000" />
+      <workItem from="1573410064881" duration="1657000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ML_Udacity_course$studentMain__2_.coverage" NAME="studentMain (2) Coverage Results" MODIFIED="1572272277940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Scripts/first challange" />
     <SUITE FILE_PATH="coverage/ML_Udacity_course$ClassifyNB.coverage" NAME="ClassifyNB Coverage Results" MODIFIED="1572268070335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Scripts" />
     <SUITE FILE_PATH="coverage/ML_udacity_course_content_codes$svm_studentMain.coverage" NAME="svm_studentMain Coverage Results" MODIFIED="1573282594798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Scripts/SVM" />
     <SUITE FILE_PATH="coverage/ML_udacity_course_content_codes$studentMain.coverage" NAME="studentMain Coverage Results" MODIFIED="1573323639446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Scripts/decision_tree" />
+    <SUITE FILE_PATH="coverage/ML_udacity_course_content_codes$studentMain__3_.coverage" NAME="studentMain (3) Coverage Results" MODIFIED="1573412606159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Scripts/linear_regression" />
     <SUITE FILE_PATH="coverage/ML_Udacity_course$Naivebayes_basic.coverage" NAME="Naivebayes-basic Coverage Results" MODIFIED="1572266920516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Scripts" />
     <SUITE FILE_PATH="coverage/ML_udacity_course_content_codes$ClassifySVM.coverage" NAME="ClassifySVM Coverage Results" MODIFIED="1573282231560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Scripts/SVM" />
     <SUITE FILE_PATH="coverage/ML_Udacity_course$studentMain.coverage" NAME="studentMain Coverage Results" MODIFIED="1572267881074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Scripts/lesson-2 exercise" />
