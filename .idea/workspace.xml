@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cad9f452-9893-4115-bc42-d664af61b3c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/linear_regression/studentMain.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,8 +53,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.studentMain (3)">
-    <configuration name="ClassifySVM" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.bagOfWords">
+    <configuration name="bagOfWords" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ML_udacity_course_content_codes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,12 +62,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Scripts/SVM" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Scripts/NLTK" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Scripts/SVM/ClassifySVM.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Scripts/NLTK/bagOfWords.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="studentMain (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="natural_language" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ML_udacity_course_content_codes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,12 +84,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Scripts/first challange" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Scripts/NLTK" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Scripts/first challange/studentMain.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Scripts/NLTK/natural_language.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bagOfWords" />
+        <item itemvalue="Python.natural_language" />
         <item itemvalue="Python.studentMain (3)" />
         <item itemvalue="Python.studentMain" />
         <item itemvalue="Python.svm_studentMain" />
-        <item itemvalue="Python.ClassifySVM" />
-        <item itemvalue="Python.studentMain (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +189,9 @@
       <workItem from="1572896940364" duration="760000" />
       <workItem from="1573014115709" duration="16000" />
       <workItem from="1573278553816" duration="6881000" />
-      <workItem from="1573410064881" duration="1657000" />
+      <workItem from="1573410064881" duration="1850000" />
+      <workItem from="1573570555274" duration="1933000" />
+      <workItem from="1574101425531" duration="1777000" />
     </task>
     <servers />
   </component>
@@ -212,9 +212,11 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ML_udacity_course_content_codes$natural_language.coverage" NAME="natural_language Coverage Results" MODIFIED="1574102319351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Scripts/NLTK" />
     <SUITE FILE_PATH="coverage/ML_Udacity_course$studentMain__2_.coverage" NAME="studentMain (2) Coverage Results" MODIFIED="1572272277940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Scripts/first challange" />
     <SUITE FILE_PATH="coverage/ML_Udacity_course$ClassifyNB.coverage" NAME="ClassifyNB Coverage Results" MODIFIED="1572268070335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Scripts" />
     <SUITE FILE_PATH="coverage/ML_udacity_course_content_codes$svm_studentMain.coverage" NAME="svm_studentMain Coverage Results" MODIFIED="1573282594798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Scripts/SVM" />
+    <SUITE FILE_PATH="coverage/ML_udacity_course_content_codes$bagOfWords.coverage" NAME="bagOfWords Coverage Results" MODIFIED="1574102819006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Scripts/NLTK" />
     <SUITE FILE_PATH="coverage/ML_udacity_course_content_codes$studentMain.coverage" NAME="studentMain Coverage Results" MODIFIED="1573323639446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Scripts/decision_tree" />
     <SUITE FILE_PATH="coverage/ML_udacity_course_content_codes$studentMain__3_.coverage" NAME="studentMain (3) Coverage Results" MODIFIED="1573412606159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Scripts/linear_regression" />
     <SUITE FILE_PATH="coverage/ML_Udacity_course$Naivebayes_basic.coverage" NAME="Naivebayes-basic Coverage Results" MODIFIED="1572266920516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Scripts" />
